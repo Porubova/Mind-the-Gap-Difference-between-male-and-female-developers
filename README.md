@@ -41,4 +41,4 @@ The questions I was interested to answer:
 Stack Overflow for providing the data.
 
 #### Blog
-[Medium]()
+[Medium](https://medium.com/@annaporubova/mind-the-gap-e6aa738cbb1)
